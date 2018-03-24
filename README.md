@@ -1,4 +1,4 @@
- # Simp_Wiktionary_EN
+ # Simplified-Wiktionary
 
 ## Intro
 + This is a json-based simplified English Wiktionary.
