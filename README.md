@@ -7,7 +7,7 @@ using the word list provided in https://github.com/dwyl/english-words.
 
 [Usage]
 >lookup.py prestigious
-Definition for  prestigious  from Simplified Wiktionary
+>Definition for  prestigious  from Simplified Wiktionary
  (comparative more prestigious, superlative most prestigious)Of high prestige.She has a prestigious job with an international organization.
  
 [Copyright]
